@@ -27,8 +27,8 @@ A full-stack CRUD Task Manager app built with Next.js (frontend), Express (backe
 
 1. **Clone the repo:**
    ```sh
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/bhargavired1y/mini-task-manager.git
+   cd mini-task-manager
    ```
 
 2. **Install dependencies:**
